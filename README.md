@@ -11,6 +11,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-word
 <p><b>☑️Foi desenvolvido um site básico responsivo, com tecnologias básicas e suas ferramentas, mostrando um menu, foto principal,
 apresentação inicial, links para rede social e contato.</b></p>
 
-          
+## Site:
+<p>https://stellar-bavarois-11930b.netlify.app/</p>
           
           
